@@ -1,0 +1,6 @@
+* crlf=input
+*.jpeg binary
+*.jpg binary
+*.png binary
+*.json linguist-language=jsonc
+*.sh linguist-detectable=false linguist-language=Shell
